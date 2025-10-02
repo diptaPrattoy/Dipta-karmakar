@@ -1,13 +1,9 @@
-<!-- Banner (Optional – upload your own banner image to repo and update the link) -->
-<p align="center">
-  <img src="https://github.com/Dipta-karmakar/Dipta-karmakar/blob/main/assets/banner.png" alt="Banner" />
-</p>
-
+<!-- Profile Header -->
 <h1 align="center">I'm Dipta!</h1>
-<h3 align="center"> Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">⚡ Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&width=600&lines=Passionate+Web+Developer;MERN+Stack+Explorer;Game+Dev+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7DF9FF&center=true&width=600&lines=Passionate+Web+Developer;MERN+Stack+Explorer;Game+Dev+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,32 +41,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipta-karmakar&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipta-karmakar&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipta-karmakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=F75C7E" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipta-karmakar&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=7DF9FF&currStreakLabel=7DF9FF" height="180px"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipta-karmakar&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipta-karmakar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF"/>
 </p>
-
----
-
-## 🎯 Featured Projects
-<p align="center">
-  <a href="https://github.com/Dipta-karmakar/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dipta-karmakar&repo=your-project-1&theme=radical" />
-  </a>
-  <a href="https://github.com/Dipta-karmakar/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dipta-karmakar&repo=your-project-2&theme=radical" />
-  </a>
-</p>
-
----
-
-## 🎯 Beyond Coding
-- 📷 Passionate about **Portrait & Mobile Photography**  
-- 🎮 Enjoys **Game Development** (Unity & Unreal Engine)  
-- 🎓 Always exploring new technologies & ideas  
-- 🎬 Editing content with **Photoshop | Lightroom | CapCut**  
 
 ---
 
@@ -83,15 +60,8 @@
 
 ---
 
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/Dipta-karmakar/Dipta-karmakar/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center"><i>“Strive for progress, not perfection.”</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dipta-karmakar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Dipta-karmakar&label=Profile%20views&color=7DF9FF&style=flat" alt="Profile Views"/>
 </p>
